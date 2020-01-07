@@ -3,5 +3,5 @@ Collection:
 - HashSet
 - HashMap
 - Working with Date
-- Algoritms
+- Algorithms
 - 30 tasks
